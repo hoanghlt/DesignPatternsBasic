@@ -1,0 +1,15 @@
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\bin\Debug\net6.0\BridgePattern.exe
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\bin\Debug\net6.0\BridgePattern.deps.json
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\bin\Debug\net6.0\BridgePattern.runtimeconfig.json
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\bin\Debug\net6.0\BridgePattern.dll
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\bin\Debug\net6.0\BridgePattern.pdb
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\BridgePattern.csproj.AssemblyReference.cache
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\BridgePattern.AssemblyInfoInputs.cache
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\BridgePattern.AssemblyInfo.cs
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\BridgePattern.csproj.CoreCompileInputs.cache
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\BridgePattern.dll
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\refint\BridgePattern.dll
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\BridgePattern.pdb
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\BridgePattern.genruntimeconfig.cache
+W:\Study\DesignPatterns\DesignPatternsBasic\BridgePattern\obj\Debug\net6.0\ref\BridgePattern.dll
