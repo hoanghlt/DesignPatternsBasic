@@ -1,0 +1,37 @@
+﻿# Bỏ qua tất cả các tệp và thư mục trong thư mục build
+build/
+
+# Bỏ qua tất cả các tệp .log
+*.log
+
+# Bỏ qua các tệp tạm thời của hệ điều hành
+*.swp
+*.tmp
+.DS_Store
+
+# Bỏ qua các tệp cấu hình IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Bỏ qua các tệp nhị phân
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+
+# Bỏ qua các tệp nén
+*.zip
+*.tar.gz
+*.rar
+
+# Bỏ qua các tệp node_modules (trong dự án Node.js)
+node_modules/
+
+# Bỏ qua các tệp phụ thuộc của Python
+__pycache__/
+*.pyc
